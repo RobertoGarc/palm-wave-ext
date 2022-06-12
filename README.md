@@ -1,2 +1,2 @@
 Palm Synthwave V. 1.0
-Tema dark de alto contraste, algo más synthwave no puede haber...
+Palm Syntwave, there is nothing more synthwave than this... :)
