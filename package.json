@@ -1,7 +1,7 @@
 {
     "name": "palm-synthwave",
     "displayName": "Palm Synthwave",
-    "description": "",
+    "description": "Palm Syntwave, there is nothing more synthwave than this... :)",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"
