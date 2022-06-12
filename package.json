@@ -1,0 +1,32 @@
+{
+    "name": "palm-synthwave",
+    "displayName": "Palm Synthwave",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Palm Synthwave",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Palm Synthwave-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/palmwave-icon.png",
+    "author":{
+        "name": "Roberto Daniel García Cedeño",
+        "email":"rdgc18@gmail.com",
+        "url":"https://www.linkedin.com/in/robertodanielg"
+    },
+    "repository": {
+        "url": "https://github.com/RobertoGarc/palm-wave-ext.git",
+        "type": "git" 
+    },
+    "publisher":"palm-code"
+}
